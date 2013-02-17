@@ -1,0 +1,7 @@
+*.py?
+
+*.egg-info
+
+*.swp
+
+*.prefs
